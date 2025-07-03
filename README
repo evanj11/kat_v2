@@ -1,0 +1,5 @@
+Welcome to KAT, the Kinetic Analysis Toolkit for analyzing fluorescent enzyme kinetic data.
+
+Currently, only MacOS is supported through the KAT.dmg installer found in KAT_v2_macOS/release folder.
+Windows and Linux support is incoming.
+
